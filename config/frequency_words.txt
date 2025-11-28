@@ -5,7 +5,6 @@ btc
 
 英伟达
 NVIDIA
-黄仁勋
 
 谷歌
 google
