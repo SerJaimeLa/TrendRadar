@@ -16,9 +16,6 @@ openai
 claude
 Anthropic
 
-iphone
-ios
-
 ai
 !gai
 人工智能
